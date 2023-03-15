@@ -9,4 +9,6 @@ cd game_usingcli
 
 (you need git to be installed)
 
-now type "start.txt"
+now type `start.txt` on windows
+
+on mac/linus type `cat start2.txt`

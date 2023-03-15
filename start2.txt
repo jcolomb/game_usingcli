@@ -1,1 +1,11 @@
 Hello unix users, welcome to the terminal maze!
+
+
+By using cat you wrote the content of this file in the terminal, so you can read it directly there !
+
+You will first learn to move around, the command for this is called "cd"
+To move forward, you can tell what door to open, for instance write "cd enter" to enter the maze, if you dare!
+
+You can always go backward by using "cd ../"
+
+Once you are in the maze, type `ls` to look around.

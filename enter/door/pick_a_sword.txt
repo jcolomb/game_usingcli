@@ -1,0 +1,7 @@
+You pick up a sword.
+
+Use the tab button to use it.
+
+try it, first type "cd " then the tab
+
+Then go to the next room, remember you can use `ls` to look around.

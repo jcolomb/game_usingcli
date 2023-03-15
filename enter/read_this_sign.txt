@@ -1,0 +1,3 @@
+Welcome to the maze, congratulation for being able to read this sign!
+
+go to the next room, it is called door.
