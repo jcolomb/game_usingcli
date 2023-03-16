@@ -12,3 +12,5 @@ cd game_usingcli
 now type `start.txt` on windows
 
 on mac/linus type `cat start2.txt`
+
+this was a place to think, but https://gitlab.com/slackermedia/bashcrawl already exists... Would be nice to port it for windows comand line...
